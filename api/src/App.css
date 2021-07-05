@@ -1,0 +1,13 @@
+/** @format */
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+  background-color: aquamarine;
+}
+h1 {
+  font-family: Permanent Marker;
+  color: rgb(117, 21, 21);
+}
